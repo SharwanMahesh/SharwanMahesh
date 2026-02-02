@@ -1,5 +1,25 @@
 # 💫 About Me:
-🔭 I’m currently working ons<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👋 Hi, I’m Sharwan Mahesh
+
+🎓 Computer Science Engineering student
+🤖 Passionate about AI/ML, Computer Vision, and Full-Stack Development
+🚀 I enjoy building practical, innovative projects that sit at the intersection of software, data, and real-world impact.
+
+I love exploring how machine learning models, data pipelines, and modern web interfaces come together to solve meaningful problems. From AI-based classification systems to desktop-style web portfolios, I focus on learning by building.
+
+🔧 What I work with
+Languages: Python, Java, JavaScript
+AI / ML: Machine Learning, Deep Learning, Computer Vision
+Web: React, HTML, CSS, JavaScript
+Tools & Tech: Git, MySQL, Streamlit, Tkinter, REST APIs
+
+📌 What you’ll find here
+Academic & self-driven AI/ML projects
+Innovative college-level projects with added research depth
+Experiments, prototypes, and learning explorations
+
+🌱 Currently learning deeper concepts in ML model optimization, system design, and deployment
+📫 Open to collaboration, internships, and learning opportunities
 
 
 ## 🌐 Socials:
